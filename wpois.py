@@ -2,11 +2,11 @@ import requests, sys
 from bs4 import BeautifulSoup
 
 print("""
-\t\t\t----------------------------------
+\t\t\t------------------------------
 \t\t\t--==[     Turkz Grup     ]==--
 \t\t\t--==[       Ar-Ge        ]==--
 \t\t\t--==[       Ruddy        ]==--
-\t\t\t----------------------------------""")
+\t\t\t------------------------------""")
 
 
 def tema():
